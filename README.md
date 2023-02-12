@@ -7,7 +7,7 @@
 
 - 👯 I’m currently collaborating with **SXVXGEE**
 
-- My discord: **yuvalv75#2770**
+- My discord: **𝙃𝙚𝙞𝙨𝙚𝙣𝙗𝙚𝙧𝙜#3521**
 
 - 📫 How to reach me **yuval.vizen@gmail.com**
 
