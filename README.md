@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm yuvalv75</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Clicker 3D**
+- 🔭 I’m currently working on **AI Desktop App**
 
-- 🌱 I’m currently learning **Databases**
-
-- 👯 I’m currently collaborating with **SXVXGEE**
-
-- My discord: **𝙃𝙚𝙞𝙨𝙚𝙣𝙗𝙚𝙧𝙜#3521**
+- 🌱 I’m currently learning **AI Integrations**
 
 - 📫 How to reach me **yuval.vizen@gmail.com**
 
